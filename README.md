@@ -48,7 +48,7 @@ Anyway, yeah, that's about all. Hopefully this helps somebody else! - Rap
 
 Shaders included:
 
-Monocular_Cues (Depth_Cues.fx) - BlueSkyKnight
+Monocular_Cues (Depth_Cues.fx) - BlueSkyKnight  
 Flashlight (Flashlight.fx)- luluco250
 DELC_Sharpen (qUINT_sharp.fx) - martymcmodding
 Virtual Reality (VR.fx) - Fu-Bama
