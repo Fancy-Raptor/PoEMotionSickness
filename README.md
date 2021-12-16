@@ -1,0 +1,2 @@
+# PoEMotionSickness
+Reshade preset
