@@ -3,7 +3,7 @@
 Install Reshade first then dump the contents of this zip in your PoE game folder. (When installing reshade you want the dx9/10/11 option)
 Default overlay hotkey for Reshade is the 'home' key
 
-Reshade contributors are the best. Big shoutout to Fu-Bama for the VR.fx shader in particular which makes this possible. 
+Reshade contributors are the best. Big shoutout to Fu-Bama for the VR.fx shader in particular which makes this possible.   
 Recommended shader order:  
 [*] Required placement
 
