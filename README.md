@@ -1,7 +1,7 @@
 # PoE Motion Sickness Reshade preset
 
 ## Shaders included:
-
+Reshade contributors are the best. Big shoutout to Fu-Bama for the VR.fx shader in particular which makes this possible.  
 Monocular_Cues (Depth_Cues.fx) - BlueSkyKnight  
 Flashlight (Flashlight.fx)- luluco250  
 DELC_Sharpen (qUINT_sharp.fx) - martymcmodding  
@@ -11,11 +11,8 @@ UIMask_Bottom/Top (UIMask.fx)
 Overlay (Overlay.fx)  
 UIMask_Top (UImask.fx)  
 
-Install Reshade first then dump the contents of this zip in your PoE game folder. 
-The default overlay hotkey for Reshade is the 'home' key.   
-Once the menu is open click the right arrow next to the preset selector or path to this preset.
+Install Reshade first then dump the contents of this zip in your PoE game folder. The default overlay hotkey for Reshade is the 'home' key. Once the menu is open click the right arrow next to the preset selector or path to this preset.
 
-Reshade contributors are the best. Big shoutout to Fu-Bama for the VR.fx shader in particular which makes this possible.   
 Recommended shader order: [*] Required placement
 
 UIMask_Top *  
