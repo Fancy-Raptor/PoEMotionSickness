@@ -1,6 +1,4 @@
 # PoE Motion Sickness Reshade preset
-_Right click and open the example gifs in a new tab._  
-
 
 ## Shaders included:
 
