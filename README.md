@@ -7,21 +7,14 @@ Reshade contributors are the best. Big shoutout to Fu-Bama for the VR.fx shader 
 Recommended shader order: [Drag in the reshade panel to rearrange]
 * Required placement
 
-UIMask_Top *
-
-Monocular_Cues
-
-Flashlight
-
-DELC_Sharpen
-
-Bulge/Pinch
-
-Virtual Reality
-
-UIMask_Bottom *
-
-Overlay
+UIMask_Top *  
+Monocular_Cues  
+Flashlight  
+DELC_Sharpen  
+Bulge/Pinch  
+Virtual Reality  
+UIMask_Bottom *  
+Overlay  
 
 Things to know / troubleshooting: 
 
@@ -49,10 +42,10 @@ Anyway, yeah, that's about all. Hopefully this helps somebody else! - Rap
 Shaders included:
 
 Monocular_Cues (Depth_Cues.fx) - BlueSkyKnight  
-Flashlight (Flashlight.fx)- luluco250
-DELC_Sharpen (qUINT_sharp.fx) - martymcmodding
-Virtual Reality (VR.fx) - Fu-Bama
-bulgepinch (bulgepinch.fx - RadegastFFXIV
-UIMask_Bottom/Top (UIMask.fx)
-Overlay (Overlay.fx) 
-UIMask_Top (UImask.fx)
+Flashlight (Flashlight.fx)- luluco250  
+DELC_Sharpen (qUINT_sharp.fx) - martymcmodding  
+Virtual Reality (VR.fx) - Fu-Bama  
+bulgepinch (bulgepinch.fx - RadegastFFXIV  
+UIMask_Bottom/Top (UIMask.fx)  
+Overlay (Overlay.fx)  
+UIMask_Top (UImask.fx)  
