@@ -4,7 +4,7 @@ Install Reshade first then dump the contents of this zip in your PoE game folder
 Default overlay hotkey for Reshade is the 'home' key
 
 Reshade contributors are the best. Big shoutout to Fu-Bama for the VR.fx shader in particular which makes this possible. 
-Recommended shader order: [Drag in the reshade panel to rearrange]
+Recommended shader order:  
 [*] Required placement
 
 UIMask_Top *  
