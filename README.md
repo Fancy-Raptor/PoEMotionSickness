@@ -1,5 +1,16 @@
 # PoE Motion Sickness Reshade preset
 
+Shaders included:
+
+Monocular_Cues (Depth_Cues.fx) - BlueSkyKnight  
+Flashlight (Flashlight.fx)- luluco250  
+DELC_Sharpen (qUINT_sharp.fx) - martymcmodding  
+Virtual Reality (VR.fx) - Fu-Bama  
+bulgepinch (bulgepinch.fx - RadegastFFXIV  
+UIMask_Bottom/Top (UIMask.fx)  
+Overlay (Overlay.fx)  
+UIMask_Top (UImask.fx)  
+
 Install Reshade first then dump the contents of this zip in your PoE game folder. (When installing reshade you want the dx9/10/11 option)
 Default overlay hotkey for Reshade is the 'home' key
 
@@ -32,19 +43,4 @@ Clicking off the 'UIMask' shaders will remove the edge shimmer and show the ui h
 - Why the bulgepinch, sharpening, and flashlight shaders?  
 Some common issues for people who suffer from motion sickness in games are lack of physical grounding for the character model and not enough emphasis. The spotlight and pinch at the feet are slight but help me out. The sharpening is more personal taste but it absolutely helps the visual clarity.
 
-
-
 Anyway, yeah, that's about all. Hopefully this helps somebody else! - Rap
-
-
-
-Shaders included:
-
-Monocular_Cues (Depth_Cues.fx) - BlueSkyKnight  
-Flashlight (Flashlight.fx)- luluco250  
-DELC_Sharpen (qUINT_sharp.fx) - martymcmodding  
-Virtual Reality (VR.fx) - Fu-Bama  
-bulgepinch (bulgepinch.fx - RadegastFFXIV  
-UIMask_Bottom/Top (UIMask.fx)  
-Overlay (Overlay.fx)  
-UIMask_Top (UImask.fx)  
