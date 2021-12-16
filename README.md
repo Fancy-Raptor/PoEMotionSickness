@@ -8,12 +8,19 @@ Recommended shader order: [Drag in the reshade panel to rearrange]
 * Required placement
 
 UIMask_Top *
+
 Monocular_Cues
+
 Flashlight
+
 DELC_Sharpen
+
 Bulge/Pinch
+
 Virtual Reality
+
 UIMask_Bottom *
+
 Overlay
 
 Things to know / troubleshooting: 
