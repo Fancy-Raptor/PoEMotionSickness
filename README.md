@@ -13,7 +13,7 @@ Overlay (Overlay.fx)
 UIMask_Top (UImask.fx)  
 
 ## How to install:
-Install Reshade first then dump the contents of this zip in your PoE game folder. The default overlay hotkey for Reshade is the 'home' key. Once the menu is open click the right arrow next to the preset selector or path to this preset.
+Install Reshade first then dump the contents of the PoE Motion Sickness zip in your PoE game folder. The default overlay hotkey for Reshade is the 'home' key. Once the menu is open click the right arrow next to the preset selector or path to this preset.
 
 Recommended shader order: [*] Required placement
 
