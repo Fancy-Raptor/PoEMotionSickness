@@ -1,6 +1,8 @@
 # PoE Motion Sickness Reshade preset
+* *Right click and open the example gifs in a new tab.  
 
-Shaders included:
+
+## Shaders included:
 
 Monocular_Cues (Depth_Cues.fx) - BlueSkyKnight  
 Flashlight (Flashlight.fx)- luluco250  
@@ -26,7 +28,7 @@ Virtual Reality
 UIMask_Bottom *  
 Overlay  
 
-Things to know / troubleshooting: 
+## Things to know / troubleshooting: 
 
 - Why is my border not aligned?   
 In the option for the overlay you can mess with the scale settings. My monitor is 1080p and lines up perfectly with scale set to 1.5
