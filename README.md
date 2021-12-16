@@ -5,7 +5,7 @@ Default overlay hotkey for Reshade is the 'home' key
 
 Reshade contributors are the best. Big shoutout to Fu-Bama for the VR.fx shader in particular which makes this possible. 
 Recommended shader order: [Drag in the reshade panel to rearrange]
-* Required placement
+[*] Required placement
 
 UIMask_Top *  
 Monocular_Cues  
