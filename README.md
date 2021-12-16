@@ -1,5 +1,4 @@
-# PoEMotionSickness
-Reshade preset
+# PoE Motion Sickness Reshade preset
 
 Install Reshade first then dump the contents of this zip in your PoE game folder. (When installing reshade you want the dx9/10/11 option)
 Default overlay hotkey for Reshade is the 'home' key
